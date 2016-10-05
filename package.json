@@ -1,0 +1,16 @@
+{
+  "name": "ts_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack"
+  },
+  "author": "Thibaut Nguyen <thibaut@cozypixel.com> (http://cozypixel.com)",
+  "dependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0.3",
+    "webpack": "^1.13.2"
+  }
+}
